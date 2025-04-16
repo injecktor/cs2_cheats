@@ -1,3 +1,5 @@
 .vs
 *.filters
 *.user
+x64
+x86
