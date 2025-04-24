@@ -135,6 +135,7 @@
     <ClCompile Include="memtool\memtool.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="client_dll.hpp" />
     <ClInclude Include="memtool\memtool.hpp" />
     <ClInclude Include="offsets.hpp" />
   </ItemGroup>
